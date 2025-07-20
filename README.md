@@ -1,2 +1,2 @@
 # DAA-Lab-Programs
-Solutions of Design and Analysis of Algorithms lab
+Program solutions for Design and Analysis of Algorithms lab programs
